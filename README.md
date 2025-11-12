@@ -99,6 +99,7 @@ All on `karyabee_net` network.
 ├── Dockerfile              # Python 3.11 base image
 ├── requirements.txt        # Pinned dependencies
 ├── setup.sh                # Bootstrap script
+├── Screenshot (615).png    # Grafana dashboard screenshot
 ├── karyabee/               # Core Python package
 │   ├── __init__.py
 │   ├── config.py
@@ -135,8 +136,7 @@ All on `karyabee_net` network.
 ├── docs/                   # Documentation
 │   ├── ARCHITECTURE.md
 │   ├── DEPLOYMENT.md
-│   ├── OPERATIONS.md
-│   └── grafana-screenshot.png  # Example Grafana dashboard screenshot
+│   └── OPERATIONS.md
 ├── env/                    # Environment (gitignore'd)
 │   └── .env
 ├── monitoring/             # Observability configs
@@ -219,7 +219,7 @@ Example Metrics:
 
 Here's an example of a Grafana dashboard in action:
 
-![Grafana Dashboard Screenshot]([docs/grafana-screenshot.png](https://github.com/Arash-Mansourpour/JonHunter-Autonomous/blob/main/Screenshot%20(615).png))
+![Grafana Dashboard Screenshot](Screenshot%20(615).png)
 
 ---
 
