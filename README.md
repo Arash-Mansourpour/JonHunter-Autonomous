@@ -219,7 +219,7 @@ Example Metrics:
 
 Here's an example of a Grafana dashboard in action:
 
-![Grafana Dashboard Screenshot](docs/grafana-screenshot.png)
+![Grafana Dashboard Screenshot]([docs/grafana-screenshot.png](https://github.com/Arash-Mansourpour/JonHunter-Autonomous/blob/main/Screenshot%20(615).png))
 
 ---
 
