@@ -1,5 +1,7 @@
 # KARYABEEEE [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/) [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)](https://www.docker.com/)
 
+![Grafana Dashboard Screenshot](Screenshot%20(615).png)
+
 > **Autonomous Job Application Engine** — Discover, Match, Apply, Repeat.
 
 **KARYABEEEE** is a production-grade, fully autonomous job application engine. It's not just a script—it's a robust, observable system that continuously discovers, evaluates, and applies to high-signal job opportunities on behalf of candidates. Built with a modular, cloud-native architecture for scalability and reliability.
@@ -217,9 +219,7 @@ Example Metrics:
 - `application_success_total`  
 - `task_latency_seconds`  
 
-Here's an example of a Grafana dashboard in action:
-
-![Grafana Dashboard Screenshot](Screenshot%20(615).png)
+Here's an example of a Grafana dashboard in action.
 
 ---
 
